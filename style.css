@@ -58,7 +58,7 @@ body{
   }
   
   .dayNight input:checked + div:before {
-    background: #ffff00;
+    background: #000000;
     transition: background 0.3s ease 0.1s;
   }
   
